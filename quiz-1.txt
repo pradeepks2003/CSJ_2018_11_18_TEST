@@ -1,0 +1,92 @@
+Which component is used to compile, debug and execute java program?- jdk
+
+Which component is responsible for converting bytecode into machine specific code?- jvm
+
+Which component is responsible to run java program?- jre
+
+Which component is responsible to optimize bytecode to machine code?- jit
+
+Which of these operators is used to allocate memory to array variable in Java?- new
+
+Which statement is true about java? - platform independent language
+
+Which of the below is invalid identifier with the main method?- public
+
+What is the extension of compiled java classes? - .class
+
+Which of these cannot be used for a variable name in Java?- keyword
+
+Which of these is an incorrect array declaration?
+
+
+int []arr = new [10]int.
+
+What is the extension of java code files?- .java
+
+How can we identify whether a compilation unit is class or interface from a .class file?- We cannot differentiate between class and interface
+
+Which of these is an incorrect Statement?-It is necessary to use new operator to initialize an array
+
+
+Which of these is necessary to specify at time of array initialization?- row
+
+class aD1
+{
+psvm()
+{
+int[] numbers= new int[5];
+for(int number: numbers)
+{
+SOPln(number);
+}
+
+}
+} o/p: 00000
+
+
+1. class aD1
+{
+psvm()
+{
+int[] numbers= new int[5];
+sopln(numbers[5]);
+}
+}
+A: java.lang.ArrayIndexOutOfBoundsException
+
+class aD1
+{
+psvm()
+{
+int[] numbers= new int[5];
+sopln(numbers.length);
+}
+} A: 5
+
+
+psvm{
+string[] pl={"c","c++","java}
+Sopln(pl);
+}o/p: [Ljava.lang.String;@7852e922
+
+
+
+
+
+class aD1
+{
+psvm()
+{
+int[] numbers= new int[-5];
+sopln(numbers.length);
+}
+}java.lang.NegativeArraySizeException
+
+
+
+
+Which of these is necessary condition for automatic type conversion in Java?
+The destination type is larger than source type 
+
+
+f an expression contains double, int, float, long, then the whole expression will be promoted into which of these data types?- long
