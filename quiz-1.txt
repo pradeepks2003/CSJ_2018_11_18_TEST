@@ -89,4 +89,4 @@ Which of these is necessary condition for automatic type conversion in Java?
 The destination type is larger than source type 
 
 
-f an expression contains double, int, float, long, then the whole expression will be promoted into which of these data types?- long
+f an expression contains double, int, float, long, then the whole expression will be promoted into which of these data types?- long 
