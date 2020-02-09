@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello how are you
 
 From Pradeep - Hello How are you?
+=======
+From Pradeep - Hello How are you?
+
+Hi This is Satarupa
+>>>>>>> a89034de25b04e4203c50dc28f964addf1a775d7
